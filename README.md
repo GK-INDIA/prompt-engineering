@@ -6,4 +6,8 @@ A repository for quick practicing of Prompt Engineering Techniques
 - Run the following command in the terminal to install all the required packages:
 ```pip install - e.```
 
-
+## How to study in order: 
+- helper_function.ipynb
+- prompt.ipynb
+- prompt_engg.ipynb
+- iterative_prompting.ipynb

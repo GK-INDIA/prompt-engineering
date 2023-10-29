@@ -13,3 +13,5 @@ A repository for quick practicing of Prompt Engineering Techniques
 - iterative_prompting.ipynb
 - summarizer.ipynb
 - inferences.ipynb
+- trasnsformer.ipynb
+- expander.ipynb
